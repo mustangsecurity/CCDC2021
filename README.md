@@ -1,5 +1,5 @@
 # CCDC2021
-This is where the greatest scripts and runbooks will be found
+Please don't steal our zero days
 
 Useful Links:
 Microsoft Security Essentials: https://www.rootusers.com/how-to-install-microsoft-security-essentials-in-windows-server-2012-r2/
