@@ -1,6 +1,11 @@
 # CCDC2021
-Please don't steal our zero days
+Please don't steal our zero days <br/>
+
+
+
+
 ![alt text](https://i1.sndcdn.com/avatars-000147386554-i6lxqk-t500x500.jpg)
+<br/>
 Useful Links:
 Microsoft Security Essentials: https://www.rootusers.com/how-to-install-microsoft-security-essentials-in-windows-server-2012-r2/
 Search for a File on Windows: https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/
